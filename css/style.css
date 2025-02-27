@@ -1,0 +1,50 @@
+h1{
+    color: crimson;
+}
+.u{
+
+    background-color: rgb(2, 3, 36);
+    font-size: 40px;
+    text-align: center;
+    display: block;
+    color: green;
+
+   
+
+}
+del{
+    font-size: 30px;
+    color: red;
+}
+
+
+
+.p1{
+
+    color: rgb(243, 8, 235);
+}
+.p2{
+    color: bisque;
+    font-size: 36px;
+    font-family: sans-serif;
+    background-color: rgb(48, 50, 51);
+}
+#k3{
+    background-color: rgb(4, 9, 46);
+    font-size: 26px;
+    padding: 50px;
+    color: aliceblue;
+    
+
+}
+.k4{
+    background-color: aquamarine;
+    margin: 20px;
+    display: inline-block;
+}
+
+.main {
+    max-width: 1320px;
+    background: #000;
+    padding: 100px 0;
+}
